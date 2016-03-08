@@ -1,0 +1,52 @@
+Iteration:1
+---------------------------
+The selected weak classifier: x < 0.11938100308179855
+The G error value of Ht:0.4472
+The weights Ct+, Ct-:-6.9078,0.1116
+The probabilities normalization factor Zt:0.8944
+The probabilities after normalization:	1.0E-4	0.1	0.1	0.1	0.125	0.125	0.1	0.125	0.1	0.125
+The values ft(xi) for each one of the examples:	-6.9078	0.1116	0.1116	0.1116	0.1116	0.1116	0.1116	0.1116	0.1116	0.1116
+The bound on Et:0.8944
+
+
+Iteration:2
+---------------------------
+The selected weak classifier: x < 0.20013999938964844
+The G error value of Ht:0.3217
+The weights Ct+, Ct-:4.0027,-0.4581
+The probabilities normalization factor Zt:0.6434
+The probabilities after normalization:	0.0085	0.0028	0.0028	0.0028	0.1229	0.1229	0.2457	0.1229	0.2457	0.1229
+The values ft(xi) for each one of the examples:	4.0027	4.0027	4.0027	4.0027	-0.4581	-0.4581	-0.4581	-0.4581	-0.4581	-0.4581
+The bound on Et:0.5754569599999999
+
+
+Iteration:3
+---------------------------
+The selected weak classifier: x < 0.863074004650116
+The G error value of Ht:0.3938
+The weights Ct+, Ct-:-1.7051,0.3464
+The probabilities normalization factor Zt:0.7875
+The probabilities after normalization:	0.0019	0.0196	0.0196	0.0196	0.0283	0.0283	0.2207	0.2207	0.2207	0.2207
+The values ft(xi) for each one of the examples:	-1.7051	-1.7051	-1.7051	-1.7051	-1.7051	-1.7051	0.3464	0.3464	0.3464	0.3464
+The bound on Et:0.4531723559999999
+
+
+Iteration:4
+---------------------------
+The selected weak classifier: x < 1.4665579795837402
+The G error value of Ht:0.3737
+The weights Ct+, Ct-:0.2915,-7.3036
+The probabilities normalization factor Zt:0.7474
+The probabilities after normalization:	0.0033	0.0195	0.0195	0.0195	0.0507	0.0507	0.2206	0.3952	0.2206	1.0E-4
+The values ft(xi) for each one of the examples:	0.2915	0.2915	0.2915	0.2915	0.2915	0.2915	0.2915	0.2915	0.2915	-7.3036
+The bound on Et:0.3387010188743999
+
+
+Iteration:5
+---------------------------
+The selected weak classifier: x < 1.218276023864746
+The G error value of Ht:0.3782
+The weights Ct+, Ct-:-0.2914,3.849
+The probabilities normalization factor Zt:0.7564
+The probabilities after normalization:	0.0033	0.0345	0.0345	0.0345	0.0501	0.0501	0.3903	0.3904	0.0062	0.0062
+The values ft(xi) for each one of the examples:	-0.2914	-0.2914	-0.2914	-0.2914	-0.2914	-0.2914	-0.2914	-0.2914	3.849	3.849

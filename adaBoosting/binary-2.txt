@@ -1,0 +1,62 @@
+Iteration:1
+---------------------------
+
+The selected weak classifier: x < 2.5
+The error of Ht:0.3
+The weight of Ht:0.4236
+The probabilities normalization factor Zt:0.9165
+The probabilities after normalization:	0.0715	0.0715	0.0715	0.0715	0.0715	0.0715	0.1667	0.1667	0.1667	0.0715
+The boosted classifier: 0.4236*I(x<2.5)
+The error of the boosted classifier Et:0.3
+The bound on Et:0.9165
+
+
+Iteration:2
+---------------------------
+
+The selected weak classifier: x < 8.5
+The error of Ht:0.21450001
+The weight of Ht:0.649
+The probabilities normalization factor Zt:0.821
+The probabilities after normalization:	0.0456	0.0456	0.0456	0.1666	0.1666	0.1666	0.1061	0.1061	0.1061	0.0456
+The boosted classifier: 0.649*I(x<8.5)+0.4236*I(x<2.5)
+The error of the boosted classifier Et:0.3
+The bound on Et:0.7524464999999999
+
+
+Iteration:3
+---------------------------
+
+The selected weak classifier: x > 5.5
+The error of Ht:0.1824
+The weight of Ht:0.7501
+The probabilities normalization factor Zt:0.7723
+The probabilities after normalization:	0.125	0.125	0.125	0.1019	0.1019	0.1019	0.0649	0.0649	0.0649	0.125
+The boosted classifier: 0.7501*I(x>5.5)+0.649*I(x<8.5)+0.4236*I(x<2.5)
+The error of the boosted classifier Et:0.4
+The bound on Et:0.5811144319499999
+
+
+Iteration:4
+---------------------------
+
+The selected weak classifier: x < 2.5
+The error of Ht:0.1947
+The weight of Ht:0.7099
+The probabilities normalization factor Zt:0.7919
+The probabilities after normalization:	0.0777	0.0777	0.0777	0.0633	0.0633	0.0633	0.1667	0.1667	0.1667	0.0777
+The boosted classifier: 0.7099*I(x<2.5)+0.7501*I(x>5.5)+0.649*I(x<8.5)+0.4236*I(x<2.5)
+The error of the boosted classifier Et:0.3
+The bound on Et:0.46018451866120497
+
+
+Iteration:5
+---------------------------
+
+The selected weak classifier: x < 8.5
+The error of Ht:0.1899
+The weight of Ht:0.7253
+The probabilities normalization factor Zt:0.7844
+The probabilities after normalization:	0.0479	0.0479	0.0479	0.1666	0.1666	0.1666	0.1029	0.1029	0.1029	0.0479
+The boosted classifier: 0.7253*I(x<8.5)+0.7099*I(x<2.5)+0.7501*I(x>5.5)+0.649*I(x<8.5)+0.4236*I(x<2.5)
+The error of the boosted classifier Et:0.3

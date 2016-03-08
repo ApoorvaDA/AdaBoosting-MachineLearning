@@ -1,0 +1,107 @@
+Iteration:1
+---------------------------
+The selected weak classifier: x < 1.3792905807495117
+The G error value of Ht:0.4525
+The weights Ct+, Ct-:0.3466,-6.4496
+The probabilities normalization factor Zt:0.9051
+The probabilities after normalization:	0.0313	0.0625	0.0313	0.0313	0.0313	0.0625	0.0625	0.0313	0.0313	0.0313	0.0313	0.0313	0.0625	0.0313	0.0313	0.0625	0.0313	0.0625	0.0625	0.0313	0.0625	0.0313	0.0313	0.0313	1.0E-4
+The values ft(xi) for each one of the examples:	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	0.3466	-6.4496
+The bound on Et:0.9051
+
+
+Iteration:2
+---------------------------
+The selected weak classifier: x < 1.0506089925765991
+The G error value of Ht:0.4541
+The weights Ct+, Ct-:-0.103,3.4219
+The probabilities normalization factor Zt:0.9082
+The probabilities after normalization:	0.0382	0.0621	0.0382	0.0382	0.0382	0.0621	0.0621	0.0382	0.0382	0.0382	0.0382	0.0382	0.0621	0.0382	0.0382	0.0621	0.0382	0.0621	0.0621	0.0382	0.0621	0.0011	0.0011	0.0011	0.0034
+The values ft(xi) for each one of the examples:	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	-0.103	3.4219	3.4219	3.4219	3.4219
+The bound on Et:0.8220118200000001
+
+
+Iteration:3
+---------------------------
+The selected weak classifier: x < 0.6989070177078247
+The G error value of Ht:0.4647
+The weights Ct+, Ct-:0.2628,-0.5752
+The probabilities normalization factor Zt:0.9295
+The probabilities after normalization:	0.0316	0.0869	0.0316	0.0316	0.0316	0.0869	0.0869	0.0316	0.0316	0.0316	0.0316	0.0316	0.0869	0.0316	0.0316	0.0375	0.0731	0.0375	0.0375	0.0731	0.0375	0.0022	0.0022	0.0022	0.002
+The values ft(xi) for each one of the examples:	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	0.2628	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752	-0.5752
+The bound on Et:0.7640599866900001
+
+
+Iteration:4
+---------------------------
+The selected weak classifier: x < 0.2604599893093109
+The G error value of Ht:0.4804
+The weights Ct+, Ct-:-0.362,0.2241
+The probabilities normalization factor Zt:0.9609
+The probabilities after normalization:	0.0472	0.063	0.0472	0.0472	0.0472	0.063	0.063	0.0263	0.0263	0.0263	0.0263	0.0263	0.1131	0.0263	0.0263	0.0488	0.0608	0.0488	0.0488	0.0608	0.0488	0.0019	0.0019	0.0019	0.0026
+The values ft(xi) for each one of the examples:	-0.362	-0.362	-0.362	-0.362	-0.362	-0.362	-0.362	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241	0.2241
+The bound on Et:0.7341852412104211
+
+
+Iteration:5
+---------------------------
+The selected weak classifier: x < -0.5473034977912903
+The G error value of Ht:0.4759
+The weights Ct+, Ct-:6.5324,-0.0493
+The probabilities normalization factor Zt:0.9517
+The probabilities after normalization:	1.0E-4	0.063	0.0521	0.0521	0.0521	0.063	0.063	0.029	0.029	0.029	0.029	0.029	0.1132	0.029	0.029	0.0489	0.0671	0.0489	0.0489	0.0671	0.0489	0.0021	0.0021	0.0021	0.0026
+The values ft(xi) for each one of the examples:	6.5324	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493	-0.0493
+The bound on Et:0.6987240940599577
+
+
+Iteration:6
+---------------------------
+The selected weak classifier: x < -0.19596600532531738
+The G error value of Ht:0.4701
+The weights Ct+, Ct-:-3.2224,0.0667
+The probabilities normalization factor Zt:0.9401
+The probabilities after normalization:	0.0027	0.0027	0.0518	0.0518	0.0518	0.0716	0.0716	0.0288	0.0288	0.0288	0.0288	0.0288	0.1287	0.0288	0.0288	0.0556	0.0668	0.0556	0.0556	0.0668	0.0556	0.0021	0.0021	0.0021	0.003
+The values ft(xi) for each one of the examples:	-3.2224	-3.2224	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667	0.0667
+The bound on Et:0.6568705208257662
+
+
+Iteration:7
+---------------------------
+The selected weak classifier: x < 0.08618500083684921
+The G error value of Ht:0.4328
+The weights Ct+, Ct-:2.035,-0.1879
+The probabilities normalization factor Zt:0.8655
+The probabilities after normalization:	5.0E-4	0.0239	0.0079	0.0079	0.0079	0.0685	0.0685	0.0402	0.0402	0.0402	0.0402	0.0402	0.1233	0.0402	0.0402	0.0533	0.0931	0.0533	0.0533	0.0931	0.0533	0.0029	0.0029	0.0029	0.0029
+The values ft(xi) for each one of the examples:	2.035	2.035	2.035	2.035	2.035	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879	-0.1879
+The bound on Et:0.5685214357747007
+
+
+Iteration:8
+---------------------------
+The selected weak classifier: x < 0.2604599893093109
+The G error value of Ht:0.4645
+The weights Ct+, Ct-:-0.9472,0.1694
+The probabilities normalization factor Zt:0.9289
+The probabilities after normalization:	0.0014	0.01	0.022	0.022	0.022	0.0286	0.0286	0.0365	0.0365	0.0365	0.0365	0.0365	0.1573	0.0365	0.0365	0.0679	0.0846	0.0679	0.0679	0.0846	0.0679	0.0026	0.0026	0.0026	0.0037
+The values ft(xi) for each one of the examples:	-0.9472	-0.9472	-0.9472	-0.9472	-0.9472	-0.9472	-0.9472	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694	0.1694
+The bound on Et:0.5280995616911195
+
+
+Iteration:9
+---------------------------
+The selected weak classifier: x < 0.37824150919914246
+The G error value of Ht:0.4585
+The weights Ct+, Ct-:0.6567,-0.2742
+The probabilities normalization factor Zt:0.9169
+The probabilities after normalization:	8.0E-4	0.021	0.0124	0.0124	0.0124	0.0602	0.0602	0.0206	0.0206	0.0206	0.0206	0.0206	0.1304	0.0524	0.0524	0.0563	0.1214	0.0563	0.0563	0.1214	0.0563	0.0037	0.0037	0.0037	0.0031
+The values ft(xi) for each one of the examples:	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	0.6567	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742	-0.2742
+The bound on Et:0.4842144881145875
+
+
+Iteration:10
+---------------------------
+The selected weak classifier: x < 0.2604599893093109
+The G error value of Ht:0.4803
+The weights Ct+, Ct-:-0.657,0.1262
+The probabilities normalization factor Zt:0.9605
+The probabilities after normalization:	0.0016	0.0113	0.0249	0.0249	0.0249	0.0325	0.0325	0.0189	0.0189	0.0189	0.0189	0.0189	0.154	0.0481	0.0481	0.0665	0.1114	0.0665	0.0665	0.1114	0.0665	0.0034	0.0034	0.0034	0.0036
+The values ft(xi) for each one of the examples:	-0.657	-0.657	-0.657	-0.657	-0.657	-0.657	-0.657	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262	0.1262

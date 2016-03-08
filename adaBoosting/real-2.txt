@@ -1,0 +1,52 @@
+Iteration:1
+---------------------------
+The selected weak classifier: x < 2.5
+The G error value of Ht:0.3464
+The weights Ct+, Ct-:7.4571,-0.1438
+The probabilities normalization factor Zt:0.6928
+The probabilities after normalization:	1.0E-4	1.0E-4	1.0E-4	0.125	0.125	0.125	0.1667	0.1667	0.1667	0.125
+The values ft(xi) for each one of the examples:	7.4571	7.4571	7.4571	-0.1438	-0.1438	-0.1438	-0.1438	-0.1438	-0.1438	-0.1438
+The bound on Et:0.6928
+
+
+Iteration:2
+---------------------------
+The selected weak classifier: x < 5.5
+The G error value of Ht:0.2606
+The weights Ct+, Ct-:-3.5653,0.6932
+The probabilities normalization factor Zt:0.5213
+The probabilities after normalization:	0.0067	0.0067	0.0067	0.0067	0.0067	0.0067	0.1598	0.1598	0.1598	0.4796
+The values ft(xi) for each one of the examples:	-3.5653	-3.5653	-3.5653	-3.5653	-3.5653	-3.5653	0.6932	0.6932	0.6932	0.6932
+The bound on Et:0.36115664
+
+
+Iteration:3
+---------------------------
+The selected weak classifier: x < 8.5
+The G error value of Ht:0.1002
+The weights Ct+, Ct-:1.6064,-7.6916
+The probabilities normalization factor Zt:0.2004
+The probabilities after normalization:	0.0065	0.0065	0.0065	0.1667	0.1667	0.1667	0.1602	0.1602	0.1602	0.001
+The values ft(xi) for each one of the examples:	1.6064	1.6064	1.6064	1.6064	1.6064	1.6064	1.6064	1.6064	1.6064	-7.6916
+The bound on Et:0.07237579065599999
+
+
+Iteration:4
+---------------------------
+The selected weak classifier: x < 5.5
+The G error value of Ht:0.1207
+The weights Ct+, Ct-:-1.6222,3.0875
+The probabilities normalization factor Zt:0.2413
+The probabilities after normalization:	0.1363	0.1363	0.1363	0.1363	0.1363	0.1363	0.0303	0.0303	0.0303	0.0908
+The values ft(xi) for each one of the examples:	-1.6222	-1.6222	-1.6222	-1.6222	-1.6222	-1.6222	3.0875	3.0875	3.0875	3.0875
+The bound on Et:0.017464278285292796
+
+
+Iteration:5
+---------------------------
+The selected weak classifier: x < 2.5
+The G error value of Ht:0.2131
+The weights Ct+, Ct-:7.6119,-0.8521
+The probabilities normalization factor Zt:0.4263
+The probabilities after normalization:	2.0E-4	2.0E-4	2.0E-4	0.1363	0.1363	0.1363	0.1665	0.1665	0.1665	0.0908
+The values ft(xi) for each one of the examples:	7.6119	7.6119	7.6119	-0.8521	-0.8521	-0.8521	-0.8521	-0.8521	-0.8521	-0.8521
